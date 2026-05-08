@@ -41,13 +41,16 @@ This project analyzes transactional point-of-sale data from three coffee shop lo
 ## 📊 Dashboard Preview
 
 ### January 2023
-![January Dashboard](screenshots/jan_2023.jpg)
+![January Dashboard](Screenshot%202026-05-08%20130739.jpg)
 
 ### February 2023
-![February Dashboard](screenshots/feb_2023.jpg)
+![February Dashboard](Screenshot%202026-05-08%20130810.jpg)
 
 ### March 2023
-![March Dashboard](screenshots/mar_2023.jpg)
+![March Dashboard](Screenshot%202026-05-08%20131002.jpg)
+
+### Dashboard Tooltip View
+![Tooltip View](Screenshot%202026-05-08%20131042.jpg)
 
 ---
 
